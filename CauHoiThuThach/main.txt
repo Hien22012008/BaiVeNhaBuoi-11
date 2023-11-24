@@ -1,0 +1,20 @@
+Câu 1:
+-Các file của Microsoft Word như .doc và .docx là binary file. Định dạng binary cho phép lưu trữ các đối tượng như hình ảnh, 
+bảng biểu, đối tượng OLE,... trong khi định dạng text chỉ có thể lưu trữ các ký tự văn bản 1. Định dạng binary cũng cho phép 
+lưu trữ các thông tin về định dạng, font chữ,... trong file, giúp đảm bảo tính nhất quán của tài liệu khi mở trên các máy tính
+khác nhau 1.
+
+Câu 2:
+- Mỗi cái đều có cái lợi riêng:
++ lập trình viên ưu tiên sử dụng đường dẫn tương đối khi liên kết đến tài nguyên trong cùng một website.
++ Lập trình viên ưu tiên sử dụng đường dẫn tuyệt đối khi liên kết đến tài nguyên ở nơi khác hoặc khi cần 
+đảm bảo tính nhất quán của tài liệu trên nhiều máy tính khác nhau 1.
+
+Câu 3:
+A
+
+Câu 4:
+D
+
+Câu 5:
+C
